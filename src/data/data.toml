@@ -1,4 +1,0 @@
-species=["Adelie","Adelie","Adelie","Adelie","Adelie","Adelie","Adelie","Adelie","Adelie","Adelie"]
-island=["Torgersen","Torgersen","Torgersen","Torgersen","Torgersen","Torgersen","Torgersen","Torgersen","Torgersen","Torgersen"]
-bill_length_mm=[39.1,39.5,40.3,nan,36.7,39.3,38.9,39.2,34.1]
-

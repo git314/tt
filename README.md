@@ -1,5 +1,8 @@
 Prints the contents of a toml file in `data`
 
+```
+./target/release/tt
+```
 
 ```
 	bill_length_mm          island         species
